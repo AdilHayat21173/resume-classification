@@ -1,6 +1,0 @@
-streamlit
-numpy
-tensorflow
-nltk
-pdfplumber
-PyMuPDF
